@@ -1,0 +1,7 @@
+{
+  "name": "LuxMarket - Premium Adult Marketplace",
+  "description": "A sophisticated, high-end marketplace for adult creators and advertisers, featuring age verification, identity validation, and premium monetization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
